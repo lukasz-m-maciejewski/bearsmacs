@@ -21,6 +21,7 @@
                           flycheck
                           ido
                           yasnippet
+                          yasnippet-snippets
                           rainbow-delimiters
                           powerline
                           git-gutter-fringe
